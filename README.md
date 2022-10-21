@@ -4,12 +4,6 @@
 - 🔭 Development Back-end
 - 🌱 I'm in the 2nd semester of Computer Science at USJT
 - 📫 Contact: pedrofreitas27052004@hotmail.com
-
-<div align="center">
-  <a href="https://github.com/PH-Freitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PH-Freitas&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-Freitas&layout=compact&langs_count=7&theme=merko"/>
-</div>
   
   ### Languages I'm learned/learning:
   
@@ -24,4 +18,10 @@
 <div style="display: inline_block"><br>
  <a href="https://www.instagram.com/pedrofreitas77/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-freitas77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/PH-Freitas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PH-Freitas&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-Freitas&layout=compact&langs_count=7&theme=merko"/>
 </div>
