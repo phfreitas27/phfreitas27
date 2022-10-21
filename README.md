@@ -11,7 +11,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-Freitas&layout=compact&langs_count=7&theme=transparent"/>
 </div>
   
-  ### Languages I'm learned/learning:
+  ### Programming languages learned/learning:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
