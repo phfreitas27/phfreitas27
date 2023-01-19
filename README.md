@@ -1,7 +1,7 @@
 ### Pedro Freitas 👋
 
 
-- 🔭 Development Back-end
+- 🔭 Development Front-end
 - 🌱 I'm in the 3nd semester of Computer Science at USJT
 - 📫 Contact: pedrofreitas27052004@hotmail.com
 
