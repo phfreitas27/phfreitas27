@@ -7,7 +7,7 @@
 
 <div align="left">
   <a href="https://github.com/phfreitas27">
-  <img height="150em" src="phfreitas27-teste-fyb0hx7h0-phfreitas27.vercel.app"/>
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phfreitas27&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=B0C4DE" />
 </div>
   
   ### Programming languages learned:
@@ -24,4 +24,3 @@
  <a href="https://www.instagram.com/pedrofreitas77/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-freitas77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
 </div>
-
