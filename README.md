@@ -7,7 +7,7 @@
 
 <div align="left">
   <a href="https://github.com/phfreitas27">
-  <img height="150em" src="(https://github-readme-stats.vercel.app/api?username=phfreitas27)](https://github.com/phfreitas/github-readme-stats)"/>
+  <img height="150em" src="(https://github-readme-stats.vercel.app/api?username=phfreitas27)(https://github.com/phfreitas/github-readme-stats)"/>
 </div>
   
   ### Programming languages learned:
