@@ -7,7 +7,7 @@
 
 <div align="left">
   <a href="https://github.com/phfreitas27">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phfreitas27&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="(https://github-readme-stats.vercel.app/api?username=phfreitas27)](https://github.com/phfreitas/github-readme-stats)"/>
 </div>
   
   ### Programming languages learned:
