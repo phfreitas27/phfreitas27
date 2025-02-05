@@ -2,7 +2,7 @@
 
 
 - 🔭 Development Front-end
-- 🌱 I'm in the 6nd semester of Computer Science at USJT
+- 🌱 I'm in the 7nd semester of Computer Science at USJT
 - 📫 Contact: pedrofreitas27052004@hotmail.com
 
 <div align="left">
