@@ -17,8 +17,8 @@
   <img style="display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40">
   <img style="display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
   <img style="display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40">
-  <img style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40">
-  <img style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40">        
+  <img style="display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40">
+  <img style="display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">        
 </p>
   
   ### Connect with me:
