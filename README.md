@@ -2,7 +2,7 @@
 
 
 - 🔭 Software Developer
-- 🌱 I'm in the 8nd semester of Computer Science at USJT
+- 🎓 Bachelor's degree in computer science
 - 📫 Contact: pedrofreitas27052004@hotmail.com
 
 <div align="left">
@@ -10,13 +10,16 @@
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phfreitas27&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=B0C4DE" />
 </div>
   
-  ### Programming languages learned:
+  ### Stacks:
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<p>
+  <img style="display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="40">
+  <img style="display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40">
+  <img style="display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
+  <img style="display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40">
+  <img style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40">
+  <img style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40">        
+</p>
   
   ### Connect with me:
   
